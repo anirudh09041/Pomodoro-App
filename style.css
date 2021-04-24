@@ -1,0 +1,36 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.header-container{
+    background-color: rgb(245, 91, 45);
+    height: 100px;
+    color: white;
+    display: flex;
+    align-items: center;
+    
+}
+
+.heading{   
+    width: 400px;
+    margin-left: 400px;
+}
+
+.timer{
+    display: block;
+    margin: auto;
+    margin-top: 200px;
+    width: 50%;
+    border: 2px solid red;
+    width: 60vh;
+}
+
+.button-container{
+    margin: 100px 100px 100px 700px;    
+}
+
+
+
+
+
