@@ -23,7 +23,7 @@ function startTimer(duration, display) {
     }, 1000);
 }
 function initialize() {
-    var time = 20 * 1;
+    var time = 60 * 25;
     var display = document.querySelector('#time');
     startTimer(time,display);    
 }  
